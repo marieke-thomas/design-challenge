@@ -1,0 +1,45 @@
+.nav-wrapper, .page-footer{
+    background-color:#28b7ff;
+}
+
+.vSmall{
+    font-size:16px;
+}
+
+.border{
+    border-style:solid;
+    border-width:2px;
+    border-color:#28b7ff;
+    border-radius:5px;
+    background-color:#e8f6ff;
+}
+
+
+.largeish-font{
+    font-size:16px;
+}
+
+.emoji{
+    font-size: 60px;
+}
+
+.imageCard{
+    background-size:cover;
+    padding-top:56.25%;
+}
+
+#card1{
+    background-image:url("NYPL.png");
+}
+
+#card2{
+    background-image:url("blueapron.png");
+}
+
+#card3{
+    background-image:url("evanschemistrycorner.png");
+}
+
+#card4{
+    background-image:url("Skedula.jpg");
+}
